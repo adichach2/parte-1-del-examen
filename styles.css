@@ -1,0 +1,38 @@
+/* use this to put borders around things... */
+body{
+background-color:  #9200c3;
+color: white;
+}
+a{
+color:yellow;
+text-decoration:none
+}
+a:hover{
+color: white;
+background: :gray;
+}
+h1{
+color: : #74ff9d;
+font-size: 30px;
+}
+h2{
+color:#ff6ec6;
+font-size: 25px;
+}
+p{
+color:#ab9dff;
+font-size: 20px;
+}
+div-container{
+color: white;
+}
+ul{
+color:#ee85ff;
+font-size: 20px;
+}
+.greenlink:hover{
+color: black;
+background:#a700bb ;
+.thin_border{
+	border: 1px solid black;
+}
